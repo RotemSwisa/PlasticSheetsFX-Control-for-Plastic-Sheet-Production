@@ -1,4 +1,4 @@
-# PlasticSheetsFX – Industrial Control System <img width="65" height="320" alt="5" src="https://github.com/user-attachments/assets/8be1615e-53d2-43a3-9c16-dd20418d642c" />
+# PlasticSheetsFX – Industrial Control System <img width="70" height="70" alt="5" src="https://github.com/user-attachments/assets/8be1615e-53d2-43a3-9c16-dd20418d642c" />
 
 
 An academic project simulating an industrial control system for managing and monitoring the production of greenhouse plastic sheets.
